@@ -17,8 +17,8 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Building powerful image classification models using very little data](http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [Building Autoencoders in Keras](http://blog.keras.io/building-autoencoders-in-keras.html)
 - [A complete guide to using Keras as part of a TensorFlow workflow](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
-- Introduction to Keras, from University of Waterloo: [video](https://www.youtube.com/watch?v=Tp3SaRbql4k) [slides](https://uwaterloo.ca/data-science/sites/ca.data-science/files/uploads/files/keras_tutorial.pdf)
-- Introduction to Deep Learning with Keras, from CERN: [video](http://cds.cern.ch/record/2157570?ln=en) [slides](https://indico.cern.ch/event/506145/contributions/2132944/attachments/1258124/1858154/NNinKeras_MPaganini.pdf)
+- Introduction to Keras, from University of Waterloo: [video](https://www.youtube.com/watch?v=Tp3SaRbql4k) - [slides](https://uwaterloo.ca/data-science/sites/ca.data-science/files/uploads/files/keras_tutorial.pdf)
+- Introduction to Deep Learning with Keras, from CERN: [video](http://cds.cern.ch/record/2157570?ln=en) - [slides](https://indico.cern.ch/event/506145/contributions/2132944/attachments/1258124/1858154/NNinKeras_MPaganini.pdf)
 - [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 - [Develop Your First Neural Network in Python With Keras Step-By-Step](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 - [Understanding Stateful LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
@@ -48,11 +48,11 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Inception v3](https://github.com/fchollet/keras/blob/master/examples/inception_v3.py)
 - [VGG 16 (with pre-trained weights)](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 - [VGG 19 (with pre-trained weights)](https://gist.github.com/baraldilorenzo/8d096f48a1be4a2d660d)
-- ResNet 50 (with pre-trained weights): [1](https://github.com/fchollet/keras/pull/3266/files) [2](https://github.com/raghakot/keras-resnet)
+- ResNet 50 (with pre-trained weights): [1](https://github.com/fchollet/keras/pull/3266/files) - [2](https://github.com/raghakot/keras-resnet)
 - [FractalNet](https://github.com/snf/keras-fractalnet)
 - [AlexNet, VGG 16, VGG 19, and class heatmap visualization](https://github.com/heuritech/convnets-keras)
 - [Visual-Semantic Embedding](https://github.com/awentzonline/keras-visual-semantic-embedding)
-- Variational Autoencoder: [with deconvolutions](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder_deconv.py) [with upsampling](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py)
+- Variational Autoencoder: [with deconvolutions](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder_deconv.py) - [with upsampling](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py)
 - [Visual question answering](https://github.com/avisingh599/visual-qa)
 - [Deep Networks with Stochastic Depth](https://github.com/dblN/stochastic_depth_keras)
 - [Smile detection with a CNN](https://github.com/kylemcdonald/SmileCNN)
@@ -62,11 +62,11 @@ If you have a high-quality tutorial or project to add, please open a PR.
 ### Creative visual applications
 
 - [Real-time style transfer](https://github.com/awentzonline/keras-rtst)
-- Style transfer: [1](https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py) [2](https://github.com/titu1994/Neural-Style-Transfer)
+- Style transfer: [1](https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py) - [2](https://github.com/titu1994/Neural-Style-Transfer)
 - [Image analogies](https://github.com/awentzonline/image-analogies): Generate image analogies using neural matching and blending.
 - [Visualizing the filters learned by a CNN](https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py)
 - [Deep dreams](https://github.com/fchollet/keras/blob/master/examples/deep_dream.py)
-- GAN / DCGAN: [1](https://github.com/phreeza/keras-GAN) [2](https://github.com/jacobgil/keras-dcgan) [3](https://github.com/osh/KerasGAN)
+- GAN / DCGAN: [1](https://github.com/phreeza/keras-GAN) - [2](https://github.com/jacobgil/keras-dcgan) - [3](https://github.com/osh/KerasGAN)
 
 ### Reinforcement learning
 
