@@ -25,6 +25,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 - [Keras video tutorials from Dan Van Boxel](https://www.youtube.com/playlist?list=PLFxrZqbLojdKuK7Lm6uamegEFGW2wki6P)
 - [Keras Deep Learning Tutorial for Kaggle 2nd Annual Data Science Bowl](https://github.com/jocicmarko/kaggle-dsb2-keras/)
+- [Collection of tutorials setting up DNNs with Keras](http://ml4a.github.io/guides/)
 
 ## Code examples
 
@@ -57,7 +58,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Deep Networks with Stochastic Depth](https://github.com/dblN/stochastic_depth_keras)
 - [Smile detection with a CNN](https://github.com/kylemcdonald/SmileCNN)
 - [VGG-CAM](https://github.com/tdeboissiere/VGG16CAM-keras)
-
+- [t-SNE of image CNN fc7 activations](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/tsne-images.ipynb)
 
 ### Creative visual applications
 
