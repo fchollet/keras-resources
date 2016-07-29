@@ -41,6 +41,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Sequence to sequence learning for performing additions of strings of digits](https://github.com/fchollet/keras/blob/master/examples/addition_rnn.py)
 - [LSTM text generation](https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)
 - [Using pre-trained word embeddings](https://github.com/fchollet/keras/blob/master/examples/pretrained_word_embeddings.py)
+- [Monolingual and Multilingual Image Captioning](https://github.com/elliottd/GroundedTranslation)
 
 ### Working with images
 
