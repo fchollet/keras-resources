@@ -59,6 +59,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Smile detection with a CNN](https://github.com/kylemcdonald/SmileCNN)
 - [VGG-CAM](https://github.com/tdeboissiere/VGG16CAM-keras)
 - [t-SNE of image CNN fc7 activations](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/tsne-images.ipynb)
+- [VGG16 Deconvolution network](https://github.com/tdeboissiere/Kaggle/tree/master/StateFarm/DeconvNet)
 
 ### Creative visual applications
 
