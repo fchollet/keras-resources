@@ -78,6 +78,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [DQN](https://github.com/sherjilozair/dqn)
 - [FlappyBird DQN](https://github.com/yanpanlau/Keras-FlappyBird)
 - [async-RL](https://github.com/coreylynch/async-rl): Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from "Asynchronous Methods for Deep Reinforcement Learning"
+- [keras-rl](https://github.com/matthiasplappert/keras-rl): A library for state-of-the-art reinforcement learning. Integrates with OpenAI Gym and implements DQN, double DQN, Continuous DQN, and DDPG.
 
 ### Miscallenous architecture blueprints
 
