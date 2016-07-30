@@ -45,7 +45,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 
 ### Working with images
 
-- [Simple CNN on MNST](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py)
+- [Simple CNN on MNIST](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py)
 - [Simple CNN on CIFAR10 with data augmentation](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py)
 - [Inception v3](https://github.com/fchollet/keras/blob/master/examples/inception_v3.py)
 - [VGG 16 (with pre-trained weights)](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
@@ -62,6 +62,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [t-SNE of image CNN fc7 activations](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/tsne-images.ipynb)
 - [VGG16 Deconvolution network](https://github.com/tdeboissiere/Kaggle/tree/master/StateFarm/DeconvNet)
 - [Wide Residual Networks (with pre-trained weights)](https://github.com/asmith26/wide_resnets_keras)
+- [Ultrasound nerve segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
 
 ### Creative visual applications
 
