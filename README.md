@@ -61,7 +61,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [VGG-CAM](https://github.com/tdeboissiere/VGG16CAM-keras)
 - [t-SNE of image CNN fc7 activations](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/tsne-images.ipynb)
 - [VGG16 Deconvolution network](https://github.com/tdeboissiere/Kaggle/tree/master/StateFarm/DeconvNet)
-- [Wide Residual Networks (with pre-trained weights)](https://github.com/asmith26/wide_resnets_keras)
+- Wide Residual Networks (with pre-trained weights): [1](https://github.com/asmith26/wide_resnets_keras) - [2](https://github.com/titu1994/Wide-Residual-Networks)
 - [Ultrasound nerve segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
 
 ### Creative visual applications
