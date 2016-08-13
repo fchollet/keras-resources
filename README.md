@@ -13,6 +13,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 
 ## Tutorials
 
+- [Quick start: the Iris dataset in Keras and scikit-learn](https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb)
 - [Using pre-trained word embeddings in a Keras model](http://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
 - [Building powerful image classification models using very little data](http://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [Building Autoencoders in Keras](http://blog.keras.io/building-autoencoders-in-keras.html)
