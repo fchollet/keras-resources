@@ -43,6 +43,8 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [LSTM text generation](https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py)
 - [Using pre-trained word embeddings](https://github.com/fchollet/keras/blob/master/examples/pretrained_word_embeddings.py)
 - [Monolingual and Multilingual Image Captioning](https://github.com/elliottd/GroundedTranslation)
+- [FastText on the IMDB dataset](https://github.com/fchollet/keras/blob/master/examples/imdb_fasttext.py)
+- [Structurally constrained recurrent nets text generation](https://github.com/nzw0301/keras-examples/blob/master/SCRNLM.ipynb)
 
 ### Working with images
 
