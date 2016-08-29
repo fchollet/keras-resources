@@ -45,6 +45,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Monolingual and Multilingual Image Captioning](https://github.com/elliottd/GroundedTranslation)
 - [FastText on the IMDB dataset](https://github.com/fchollet/keras/blob/master/examples/imdb_fasttext.py)
 - [Structurally constrained recurrent nets text generation](https://github.com/nzw0301/keras-examples/blob/master/SCRNLM.ipynb)
+- [Character-level convolutional neural nets for text classification](https://github.com/johnb30/py_crepe)
 
 ### Working with images
 
