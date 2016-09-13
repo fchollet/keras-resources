@@ -67,6 +67,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [VGG16 Deconvolution network](https://github.com/tdeboissiere/Kaggle/tree/master/StateFarm/DeconvNet)
 - Wide Residual Networks (with pre-trained weights): [1](https://github.com/asmith26/wide_resnets_keras) - [2](https://github.com/titu1994/Wide-Residual-Networks)
 - [Ultrasound nerve segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
+- [DeepMask object segmentation](https://github.com/abbypa/NNProject_DeepMask)
 
 ### Creative visual applications
 
