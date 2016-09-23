@@ -102,7 +102,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [seq2seq](https://github.com/farizrahman4u/seq2seq): Sequence to Sequence Learning with Keras
 - [Seya](https://github.com/EderSantana/seya): Keras extras
 - [Keras Language Modeling](https://github.com/codekansas/keras-language-modeling): Language modeling tools for Keras
-
+- [Recurrent Shop](https://github.com/datalogai/recurrentshop): Framework for building complex recurrent neural networks with Keras
 
 ## Projects built with Keras
 
