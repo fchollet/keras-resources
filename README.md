@@ -105,6 +105,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Seya](https://github.com/EderSantana/seya): Keras extras
 - [Keras Language Modeling](https://github.com/codekansas/keras-language-modeling): Language modeling tools for Keras
 - [Recurrent Shop](https://github.com/datalogai/recurrentshop): Framework for building complex recurrent neural networks with Keras
+- [Keras.js](https://github.com/transcranial/keras-js): Run trained Keras models in the browser, with GPU support
 
 ## Projects built with Keras
 
