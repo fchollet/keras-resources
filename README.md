@@ -69,7 +69,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - Wide Residual Networks (with pre-trained weights): [1](https://github.com/asmith26/wide_resnets_keras) - [2](https://github.com/titu1994/Wide-Residual-Networks)
 - [Ultrasound nerve segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
 - [DeepMask object segmentation](https://github.com/abbypa/NNProject_DeepMask)
-- [Densely Connected Convolutional Networks](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
+- Densely Connected Convolutional Networks: [1](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet) - [2](https://github.com/titu1994/DenseNet)
 
 ### Creative visual applications
 
