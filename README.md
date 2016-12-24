@@ -67,7 +67,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [t-SNE of image CNN fc7 activations](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/tsne-images.ipynb)
 - [VGG16 Deconvolution network](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DeconvNet)
 - Wide Residual Networks (with pre-trained weights): [1](https://github.com/asmith26/wide_resnets_keras) - [2](https://github.com/titu1994/Wide-Residual-Networks)
-- [Ultrasound nerve segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
+- Ultrasound nerve segmentation: [1](https://github.com/jocicmarko/ultrasound-nerve-segmentation) - [2](https://github.com/raghakot/ultrasound-nerve-segmentation)
 - [DeepMask object segmentation](https://github.com/abbypa/NNProject_DeepMask)
 - Densely Connected Convolutional Networks: [1](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet) - [2](https://github.com/titu1994/DenseNet)
 - [Snapshot Ensembles: Train 1, Get M for Free](https://github.com/titu1994/Snapshot-Ensembles)
@@ -107,6 +107,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Keras Language Modeling](https://github.com/codekansas/keras-language-modeling): Language modeling tools for Keras
 - [Recurrent Shop](https://github.com/datalogai/recurrentshop): Framework for building complex recurrent neural networks with Keras
 - [Keras.js](https://github.com/transcranial/keras-js): Run trained Keras models in the browser, with GPU support
+- [keras-vis](https://github.com/raghakot/keras-vis): Neural network visualization toolkit for keras.
 
 ## Projects built with Keras
 
