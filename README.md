@@ -79,7 +79,11 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Image analogies](https://github.com/awentzonline/image-analogies): Generate image analogies using neural matching and blending.
 - [Visualizing the filters learned by a CNN](https://github.com/fchollet/keras/blob/master/examples/conv_filter_visualization.py)
 - [Deep dreams](https://github.com/fchollet/keras/blob/master/examples/deep_dream.py)
-- GAN / DCGAN: [1](https://github.com/phreeza/keras-GAN) - [2](https://github.com/jacobgil/keras-dcgan) - [3](https://github.com/osh/KerasGAN)
+- GAN / DCGAN: [1](https://github.com/phreeza/keras-GAN) - [2](https://github.com/jacobgil/keras-dcgan) - [3](https://github.com/osh/KerasGAN) - [4](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/GAN)
+- [InfoGAN](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/InfoGAN)
+- [pix2pix](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)
+- [DFI](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DFI): Deep Feature Interpolation
+- [Colorful Image colorization](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful): B&W to color
 
 ### Reinforcement learning
 
