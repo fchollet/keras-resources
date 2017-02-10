@@ -27,6 +27,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Keras video tutorials from Dan Van Boxel](https://www.youtube.com/playlist?list=PLFxrZqbLojdKuK7Lm6uamegEFGW2wki6P)
 - [Keras Deep Learning Tutorial for Kaggle 2nd Annual Data Science Bowl](https://github.com/jocicmarko/kaggle-dsb2-keras/)
 - [Collection of tutorials setting up DNNs with Keras](http://ml4a.github.io/guides/)
+- [Fast.AI - Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) (great information on deep learning in general, heavily uses Keras for the labs)
 
 ## Code examples
 
