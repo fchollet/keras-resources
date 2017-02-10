@@ -48,6 +48,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Structurally constrained recurrent nets text generation](https://github.com/nzw0301/keras-examples/blob/master/SCRNLM.ipynb)
 - [Character-level convolutional neural nets for text classification](https://github.com/johnb30/py_crepe)
 - [LSTM to predict gender of a name](https://github.com/divamgupta/lstm-gender-predictor)
+- [Language/dialect identification with multiple character-level CNNs](https://github.com/boknilev/dsl-char-cnn)
 
 ### Working with images
 
