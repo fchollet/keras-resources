@@ -73,6 +73,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [DeepMask object segmentation](https://github.com/abbypa/NNProject_DeepMask)
 - Densely Connected Convolutional Networks: [1](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet) - [2](https://github.com/titu1994/DenseNet)
 - [Snapshot Ensembles: Train 1, Get M for Free](https://github.com/titu1994/Snapshot-Ensembles)
+- [Single Shot MultiBox Detector](https://github.com/rykov8/ssd_keras)
 
 ### Creative visual applications
 
