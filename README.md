@@ -124,3 +124,4 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [snli-entailment](https://github.com/shyamupa/snli-entailment): Independent implementation of attention model for textual entailment from the paper ["Reasoning about Entailment with Neural Attention"](http://arxiv.org/abs/1509.06664).
 - [Headline generator](https://github.com/udibr/headlines): independent implementation of [Generating News Headlines with Recurrent Neural Networks](http://arxiv.org/abs/1512.01712)
 - [LipNet](https://github.com/rizkiarm/LipNet): independent implementation of [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599).
+- [caption_generator](https://github.com/anuragmishracse/caption_generator): An implementation of image caption generation in natural language inspired from [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf).
