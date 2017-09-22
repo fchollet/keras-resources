@@ -129,3 +129,4 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [LipNet](https://github.com/rizkiarm/LipNet): independent implementation of [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599).
 - [caption_generator](https://github.com/anuragmishracse/caption_generator): An implementation of image caption generation in natural language inspired from [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf).
 - [NMT-Keras](https://github.com/lvapeab/nmt-keras): Neural Machine Translation using Keras.
+- [Conx](https://conx.readthedocs.io/) - easy-to-use layer on top of Keras, with visualizations (eg, no knowledge of numpy needed)
