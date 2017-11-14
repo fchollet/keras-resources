@@ -30,6 +30,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Collection of tutorials setting up DNNs with Keras](http://ml4a.github.io/guides/)
 - [Fast.AI - Practical Deep Learning For Coders, Part 1](http://course.fast.ai/) (great information on deep learning in general, heavily uses Keras for the labs)
 - [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+- [A Bit of Deep Learning and Keras](https://www.youtube.com/watch?v=UOEhojCzWrY&list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): a multipart video introduction to deep learning and keras
 - [Five simple examples of the Keras Functional API](http://www.puzzlr.org/the-keras-functional-api-five-simple-examples/)
 
 ## Code examples
