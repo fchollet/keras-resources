@@ -32,6 +32,12 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 - [A Bit of Deep Learning and Keras](https://www.youtube.com/watch?v=UOEhojCzWrY&list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): a multipart video introduction to deep learning and keras
 
+## Books based on Keras
+
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
+- [Deep Learning with Keras](https://www.amazon.com/Deep-Learning-Keras-Implementing-learning/dp/1787128423/)
+- [Deep Learning and the Game of Go (MEAP)](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+
 ## Code examples
 
 ### Working with text
@@ -123,6 +129,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 ## Projects built with Keras
 
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo): An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"
+- [BetaGo](https://github.com/maxpumperla/betago): Deep Learning Go bots using Keras
 - [DeepJazz](https://github.com/jisungk/deepjazz): Deep learning driven jazz generation using Keras
 - [dataset-sts](https://github.com/brmson/dataset-sts): Semantic Text Similarity Dataset Hub
 - [snli-entailment](https://github.com/shyamupa/snli-entailment): Independent implementation of attention model for textual entailment from the paper ["Reasoning about Entailment with Neural Attention"](http://arxiv.org/abs/1509.06664).
