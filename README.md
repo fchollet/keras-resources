@@ -70,6 +70,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - ResNet 50 (with pre-trained weights): [1](https://github.com/fchollet/keras/pull/3266/files) - [2](https://github.com/raghakot/keras-resnet)
 - [FractalNet](https://github.com/snf/keras-fractalnet)
 - [AlexNet, VGG 16, VGG 19, and class heatmap visualization](https://github.com/heuritech/convnets-keras)
+- [Any model and class heatmap visualization](https://github.com/gabrieldemarmiesse/heatmaps)
 - [Visual-Semantic Embedding](https://github.com/awentzonline/keras-visual-semantic-embedding)
 - Variational Autoencoder: [with deconvolutions](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder_deconv.py) - [with upsampling](https://github.com/fchollet/keras/blob/master/examples/variational_autoencoder.py)
 - [Visual question answering](https://github.com/avisingh599/visual-qa)
