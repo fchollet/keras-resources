@@ -60,6 +60,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Character-level convolutional neural nets for text classification](https://github.com/johnb30/py_crepe)
 - [LSTM to predict gender of a name](https://github.com/divamgupta/lstm-gender-predictor)
 - [Language/dialect identification with multiple character-level CNNs](https://github.com/boknilev/dsl-char-cnn)
+- [Attention based Language Translation in Keras](https://github.com/divamgupta/attention-translation-keras)
 
 ### Working with images
 
