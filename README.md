@@ -127,6 +127,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Recurrent Shop](https://github.com/datalogai/recurrentshop): Framework for building complex recurrent neural networks with Keras
 - [Keras.js](https://github.com/transcranial/keras-js): Run trained Keras models in the browser, with GPU support
 - [keras-vis](https://github.com/raghakot/keras-vis): Neural network visualization toolkit for keras.
+- [Talos](https://github.com/autonomio/talos): Hyperparameter Optimization for Keras
 
 ## Projects built with Keras
 
