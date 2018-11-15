@@ -113,6 +113,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Siamese network](https://github.com/fchollet/keras/blob/master/examples/mnist_siamese_graph.py)
 - [Pretraining on a different dataset](https://github.com/fchollet/keras/blob/master/examples/mnist_transfer_cnn.py)
 - [Neural programmer-interpreter](https://github.com/mokemokechicken/keras_npi)
+- [Multimodal Autoencoders](https://github.com/asnelt/mmae)
 
 ## Third-party libraries
 
