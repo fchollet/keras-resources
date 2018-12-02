@@ -127,6 +127,8 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Recurrent Shop](https://github.com/datalogai/recurrentshop): Framework for building complex recurrent neural networks with Keras
 - [Keras.js](https://github.com/transcranial/keras-js): Run trained Keras models in the browser, with GPU support
 - [keras-vis](https://github.com/raghakot/keras-vis): Neural network visualization toolkit for keras.
+- [pytorch2keras](https://github.com/nerox8664/pytorch2keras): Convert PyTorch models to Keras (with TensorFlow backend) format
+- [gluon2keras](https://github.com/nerox8664/gluon2keras): Convert Gluon models to Keras (with TensorFlow backend) format
 
 ## Projects built with Keras
 
