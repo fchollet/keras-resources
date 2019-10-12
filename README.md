@@ -33,7 +33,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [A Bit of Deep Learning and Keras](https://www.youtube.com/watch?v=UOEhojCzWrY&list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): a multipart video introduction to deep learning and keras
 - [Five simple examples of the Keras Functional API](http://www.puzzlr.org/the-keras-functional-api-five-simple-examples/)
 - [Keras video tutorials playlist from Deeplizard](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
-
+-[Learn JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=20s)
 ## Books based on Keras
 
 - [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
@@ -41,6 +41,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Deep Learning and the Game of Go (MEAP)](https://www.manning.com/books/deep-learning-and-the-game-of-go)
 
 ## Code examples
+-
 
 ### Working with text
 
