@@ -1,3 +1,4 @@
+# Updated Readme for purposes of discourse
 # Keras resources
 
 This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library.
